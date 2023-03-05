@@ -1,0 +1,6 @@
+Bank Loan Case Study
+
+This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers
+This case study is about the data analysis using EDA module, python and statistics. Statistics is collection, organization, analysis, implementation and presentation of data. It is a review, gather, analyze and raw conclusion from data. Here we also use pie chart, bar chart, histogram, frequency table and many more to understanding data in graphical format which is very easy to understanding.
+Bank Loan Case Study is also an important part of data analyst. Here we use Python and statistics to get output from insights. Here they want some data related to missing data, outliers in the dataset, imbalance in the data, top 10 correlation with payment difficulties and some graph from data set. Also, they want clean dataset on existing dataset.
+With the help of Python and dataset, resolve query with the help of video lecture and database which already provided in our course. Using these data and their requirement we did some operation on the data.

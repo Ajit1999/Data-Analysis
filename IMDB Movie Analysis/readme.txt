@@ -1,0 +1,3 @@
+IMDB movie analysis is the fundamental and the most important to get insight related to movies. This analysis is very useful to identify profit or loss of movie, favorite actor, likes and views.
+Statistics is collection, organization, analysis, implementation and presentation of data. It is a review, gather, analyze and raw conclusion from data. 
+Here we also use pie chart, bar chart, histogram, frequency table and many more to understanding data in graphical format which is very easy to understanding. Also, here we can use 5 Whys technique to determine its root cause by repeatedly asking the question “Why”. It will very helpful to understand data and tasks
